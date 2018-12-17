@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>MyFirstWebApp</name>
     <description>
-        App-Beschreibung
+        Eine Apppp
     </description>
     <author>
-        Dein Name
+        Sebastian Hubold
     </author>
 
     <!-- General settings -->
